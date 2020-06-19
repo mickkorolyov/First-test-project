@@ -3,3 +3,7 @@ exports.config = {
     specs: ['todo-spec.js']
   };
   
+  let newCode = "Обучение полным ходом";
+  
+   alert("Hello new branch");
+
