@@ -4,5 +4,6 @@ exports.config = {
   };
   
   let newCode = "Обучение полным ходом";
+  
    alert("Hello new branch");
-   
+
